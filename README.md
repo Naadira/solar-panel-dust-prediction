@@ -1,12 +1,16 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # solar-panel-dust-prediction
 =======
 =======
 ![Uploading image.png…]()
+=======
+>>>>>>> 2efc731 (Update README.md)
 
 
 
+![Uploading _5ae8541a-c651-4b14-9256-39b8f2f82024.jpg…]()
 
 >>>>>>> 849be97 (Update README.md)
 # Optimizing Solar Panel Efficiency: Computer Vision Approach to Dust Detection
